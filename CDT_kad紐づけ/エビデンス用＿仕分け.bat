@@ -1,0 +1,11 @@
+move *_A_* %~dp0A0
+move *_B_* %~dp0B0
+move *_C_* %~dp0C0
+move *_D_* %~dp0D0
+move *_E_* %~dp0E0
+move *_F_* %~dp0F0
+move *_G_* %~dp0G0
+move *_H_* %~dp0H0
+move *_I_* %~dp0I0
+move *_J_* %~dp0J0
+move *_K_* %~dp0K0
